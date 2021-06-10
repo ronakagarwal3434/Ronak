@@ -232,7 +232,7 @@
 		      beforeSend: function() { 
 
 		      	sLoader.fadeIn(); 
-
+				console.log("1");
 		      },
 		      success: function(msg) {
 
